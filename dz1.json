@@ -1,5 +1,5 @@
 {
-  "enabled": true,
+  "enabled": false,
   "message": "",
-  "expire_date": "2026-12-31"
+  "expire_date": "2026-1-31"
 }
